@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.5">
+    <DOCUMENT ANZPAGES="4" PAGEWIDTH="1190.55118110236" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="1" PAGESIZE="A3" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="1" DFONT="DejaVu Sans Book" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_GB" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="1" SnapToElement="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502045814642449" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.0006299212598" dispY="10.0006299212598" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Nunito Regular" FONTFEATURES="-clig"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="DejaVu Sans Book" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_GB"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="1" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="0" PSLevel="0" PDLanguage="0" markLength="3.16696078984239e-321" markOffset="4.65332458891109e-310" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0012598425197" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Fonts Name="Nunito Bold"/>
+            <Fonts Name="Nunito Regular"/>
+            <Fonts Name="Nunito SemiBold"/>
+            <Subset Name="Nunito Bold Italic"/>
+            <Subset Name="Nunito ExtraBold"/>
+            <Subset Name="Nunito ExtraBold Italic"/>
+            <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <NotesFrames/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="3" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="1190.55118110236" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal" MNAM="" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="1190.55118110236" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="blank_master" MNAM="" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="1190.55118110236" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="blank_master" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="901.890708661418" PAGEWIDTH="1190.55118110236" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="" MNAM="blank_master" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="1783.78015748032" PAGEWIDTH="1190.55118110236" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="2" NAM="" MNAM="blank_master" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="2665.66960629921" PAGEWIDTH="1190.55118110236" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="3" NAM="" MNAM="blank_master" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTEROBJECT XPOS="140.00062992126" YPOS="60.0012598425197" OwnPage="1" ItemID="1387054227" PTYPE="2" WIDTH="380.026456692913" HEIGHT="120.010078740157" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0789539991711559" LOCALSCY="0.0789539991711559" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Piwarsbot-New-Logo-1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L380.026 0 L380.026 120.01 L0 120.01 L0 0 Z" copath="M0 0 L380.026 0 L380.026 120.01 L0 120.01 L0 0 Z" OnMasterPage="blank_master" gXpos="140.00062992126" gYpos="86189761.50268" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <MASTEROBJECT XPOS="520.027086614173" YPOS="60.0012598425197" OwnPage="1" ItemID="1387014755" PTYPE="4" WIDTH="360.022677165354" HEIGHT="120.010078740157" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360.023 0 L360.023 120.01 L0 120.01 L0 0 Z" copath="M0 0 L360.023 0 L360.023 120.01 L0 120.01 L0 0 Z" OnMasterPage="blank_master" gXpos="520.027086614173" gYpos="86189761.50268" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </MASTEROBJECT>
+        <PAGEOBJECT XPOS="140.00062992126" YPOS="60.0012598425197" OwnPage="0" ItemID="1387032595" PTYPE="2" WIDTH="380.026456692913" HEIGHT="120.010078740157" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0789539991711559" LOCALSCY="0.0789539991711559" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Piwarsbot-New-Logo-1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L380.026 0 L380.026 120.01 L0 120.01 L0 0 Z" copath="M0 0 L380.026 0 L380.026 120.01 L0 120.01 L0 0 Z" gXpos="140.00062992126" gYpos="60.0012598425197" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="520.027086614173" YPOS="60.0012598425197" OwnPage="0" ItemID="1387129107" PTYPE="4" WIDTH="360.022677165354" HEIGHT="120.010078740157" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360.023 0 L360.023 120.01 L0 120.01 L0 0 Z" copath="M0 0 L360.023 0 L360.023 120.01 L0 120.01 L0 0 Z" gXpos="520.027086614173" gYpos="60.0012598425197" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para ALIGN="1" LINESPMode="1" LINESP="28"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="28"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="28"/>
+                <ITEXT FONT="Nunito Bold" FONTSIZE="43" CH="Tidy up the Toys"/>
+                <trail ALIGN="1" LINESPMode="1" LINESP="28"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.00062992126" YPOS="180.011338582677" OwnPage="0" ItemID="1387123299" PTYPE="2" WIDTH="260.018897637795" HEIGHT="260.016377952756" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.371455568053993" LOCALSCY="0.371455568053993" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="abc-blocks.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L260.019 0 L260.019 260.016 L0 260.016 L0 0 Z" copath="M0 0 L260.019 0 L260.019 260.016 L0 260.016 L0 0 Z" gXpos="140.00062992126" gYpos="180.011338582677" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="140.00062992126" YPOS="440.027716535433" OwnPage="0" ItemID="1387083075" PTYPE="2" WIDTH="380.026456692913" HEIGHT="381.863307086614" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.316688713910761" LOCALSCY="0.316688713910761" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Tidy-Up-the-Toys-arena-layout_sm.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L380.026 0 L380.026 381.863 L0 381.863 L0 0 Z" copath="M0 0 L380.026 0 L380.026 381.863 L0 381.863 L0 0 Z" gXpos="140.00062992126" gYpos="440.027716535433" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="400.019527559055" YPOS="180.011338582677" OwnPage="0" ItemID="1387170531" PTYPE="4" WIDTH="850.532283464567" HEIGHT="260.016377952756" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L850.532 0 L850.532 260.016 L0 260.016 L0 0 Z" copath="M0 0 L850.532 0 L850.532 260.016 L0 260.016 L0 0 Z" gXpos="400.019527559055" gYpos="180.011338582677" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="Premise:"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="You keep on tripping over toys that are strewn all over the floor. It’s time to get them organised!"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="Aim of the Challenge:"/>
+                <para/>
+                <para/>
+                <ITEXT FONTSIZE="15" CH="To organise the toys into one of two arrangements, using one of two methods."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="Control Method:"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="Remote control or Autonomous."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="Time Limit:"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="5 minutes."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="520.027086614173" YPOS="440.027716535433" OwnPage="0" ItemID="1387144451" PTYPE="4" WIDTH="730.524724409449" HEIGHT="381.863307086614" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L730.525 0 L730.525 381.863 L0 381.863 L0 0 Z" copath="M0 0 L730.525 0 L730.525 381.863 L0 381.863 L0 0 Z" gXpos="520.027086614173" gYpos="440.027716535433" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" FEATURES="inherit underline" CH="Rules"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="Three coloured cubes with sides of 50mm will be placed inside your 1500mm x 1500mm arena. "/>
+                <para LINESP="20"/>
+                <para LINESP="20"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="They must be placed according to the diagram below, in the same order as shown. "/>
+                <para LINESP="20"/>
+                <para LINESP="20"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="Your blocks may be made out of any material. There are some wooden ones available on Etsy, just as an example. There are also plenty of different ones on eBay. "/>
+                <para LINESP="20"/>
+                <para LINESP="20"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="A 3D printable, hollow cube available on Thingiverse. "/>
+                <para LINESP="20"/>
+                <para LINESP="20"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="A laser-cuttable version available over at Open Pi Robotics. Thanks to Brian Corteil for designing it!"/>
+                <para LINESP="20"/>
+                <para LINESP="20"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="Your robot will start facing the “bottom” wall and will need to turn around to face the blocks. If you are planning on mounting a “grabber” on the back of the robot, the front of the grabber should face the wall. "/>
+                <para LINESP="20"/>
+                <para LINESP="20"/>
+                <ITEXT FONT="Nunito ExtraBold" FONTSIZE="15" CH="You must turn around to face the blocks in their starting positions."/>
+                <para LINESP="20"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="880.049763779528" YPOS="60.0012598425197" OwnPage="0" ItemID="1387512547" PTYPE="4" WIDTH="370.502047244094" HEIGHT="120.010078740157" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L370.502 0 L370.502 120.01 L0 120.01 L0 0 Z" copath="M0 0 L370.502 0 L370.502 120.01 L0 120.01 L0 0 Z" gXpos="880.049763779528" gYpos="60.0012598425197" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Nunito ExtraBold" FONTSIZE="15" CH="https://piwars.org/2021-vpw/challenges/tidy-up-the-toys/"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.00062992126" YPOS="941.890708661417" OwnPage="1" ItemID="1387193699" PTYPE="2" WIDTH="380.026456692913" HEIGHT="120.010078740157" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0789539991711559" LOCALSCY="0.0789539991711559" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Piwarsbot-New-Logo-1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L380.026 0 L380.026 120.01 L0 120.01 L0 0 Z" copath="M0 0 L380.026 0 L380.026 120.01 L0 120.01 L0 0 Z" gXpos="140.00062992126" gYpos="60.0012598425197" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="520.027086614173" YPOS="941.890708661417" OwnPage="1" ItemID="1387185875" PTYPE="4" WIDTH="360.022677165354" HEIGHT="120.010078740157" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360.023 0 L360.023 120.01 L0 120.01 L0 0 Z" copath="M0 0 L360.023 0 L360.023 120.01 L0 120.01 L0 0 Z" gXpos="520.027086614173" gYpos="60.0012598425197" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para ALIGN="1" LINESPMode="1" LINESP="28"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="28"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="28"/>
+                <ITEXT FONT="Nunito Bold" FONTSIZE="43" CH="Tidy up the Toys"/>
+                <trail ALIGN="1" LINESPMode="1" LINESP="28"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.00062992126" YPOS="1061.90078740157" OwnPage="1" ItemID="1388350819" PTYPE="2" WIDTH="260.018897637795" HEIGHT="260.016377952756" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.371455568053993" LOCALSCY="0.371455568053993" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="abc-blocks.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L260.019 0 L260.019 260.016 L0 260.016 L0 0 Z" copath="M0 0 L260.019 0 L260.019 260.016 L0 260.016 L0 0 Z" gXpos="140.00062992126" gYpos="180.011338582677" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="140.00062992126" YPOS="1321.91716535433" OwnPage="1" ItemID="1388375763" PTYPE="2" WIDTH="380.026456692913" HEIGHT="381.863307086614" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.316688713910761" LOCALSCY="0.316688713910761" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Tidy-Up-the-Toys-arena-layout_sm.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L380.026 0 L380.026 381.863 L0 381.863 L0 0 Z" copath="M0 0 L380.026 0 L380.026 381.863 L0 381.863 L0 0 Z" gXpos="140.00062992126" gYpos="440.027716535433" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="400.019527559055" YPOS="1061.90078740157" OwnPage="1" ItemID="1388480275" PTYPE="4" WIDTH="850.532283464567" HEIGHT="260.016377952756" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L850.532 0 L850.532 260.016 L0 260.016 L0 0 Z" copath="M0 0 L850.532 0 L850.532 260.016 L0 260.016 L0 0 Z" gXpos="400.019527559055" gYpos="180.011338582677" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="Premise:"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="You keep on tripping over toys that are strewn all over the floor. It’s time to get them organised!"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="Aim of the Challenge:"/>
+                <para/>
+                <para/>
+                <ITEXT FONTSIZE="15" CH="To organise the toys into one of two arrangements, using one of two methods."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="Control Method:"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="Remote control or Autonomous."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="Time Limit:"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="5 minutes."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="520.027086614173" YPOS="1321.91716535433" OwnPage="1" ItemID="1388574051" PTYPE="4" WIDTH="730.524724409449" HEIGHT="381.863307086614" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L730.525 0 L730.525 381.863 L0 381.863 L0 0 Z" copath="M0 0 L730.525 0 L730.525 381.863 L0 381.863 L0 0 Z" gXpos="520.027086614173" gYpos="440.027716535433" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="16" FEATURES="inherit underline" CH="Rules"/>
+                <para LINESP="20"/>
+                <para LINESP="20"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="Your robot will need to move all of the blocks so that they are placed inside a target box (shown on the diagram) and so that they are ordered Red, Green, Blue in one of the following two ‘arrangements’:"/>
+                <para LINESP="20"/>
+                <para LINESP="20"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="    Side by side with no more than 50mm between them."/>
+                <para LINESP="20"/>
+                <para LINESP="20"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="    One on top of the other with the Red block on the top, Green in the middle and Blue on the bottom."/>
+                <para LINESP="20"/>
+                <para LINESP="20"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="You can place the blocks in either of the two arrangements by whichever method you wish: Remote control or Fully autonomous. "/>
+                <para LINESP="20"/>
+                <para LINESP="20"/>
+                <ITEXT FONT="Nunito ExtraBold" FONTSIZE="15" CH="Please do not mix methods as it will make it impossible to rank you."/>
+                <para LINESP="20"/>
+                <para LINESP="20"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="You may run the course as many times as you wish but you should submit the video of your fastest run which should be completed in less than five minutes."/>
+                <para LINESP="20"/>
+                <para LINESP="20"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="The colour of the cubes, whilst needing to be Red, Green and Blue, can be any shade of those colours that you choose."/>
+                <para LINESP="20"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH=" "/>
+                <para LINESP="20"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="    "/>
+                <para LINESP="20"/>
+                <para LINESP="20"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="880.049763779528" YPOS="941.890708661417" OwnPage="1" ItemID="1389468499" PTYPE="4" WIDTH="370.502047244094" HEIGHT="120.010078740157" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L370.502 0 L370.502 120.01 L0 120.01 L0 0 Z" copath="M0 0 L370.502 0 L370.502 120.01 L0 120.01 L0 0 Z" gXpos="880.049763779528" gYpos="60.0012598425197" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Nunito ExtraBold" FONTSIZE="15" CH="https://piwars.org/2021-vpw/challenges/tidy-up-the-toys/"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.00062992126" YPOS="1823.78015748032" OwnPage="2" ItemID="1388826835" PTYPE="2" WIDTH="380.026456692913" HEIGHT="120.010078740157" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0789539991711559" LOCALSCY="0.0789539991711559" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Piwarsbot-New-Logo-1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L380.026 0 L380.026 120.01 L0 120.01 L0 0 Z" copath="M0 0 L380.026 0 L380.026 120.01 L0 120.01 L0 0 Z" gXpos="140.00062992126" gYpos="60.0012598425197" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="520.027086614173" YPOS="1823.78015748032" OwnPage="2" ItemID="1388788803" PTYPE="4" WIDTH="360.022677165354" HEIGHT="120.010078740157" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360.023 0 L360.023 120.01 L0 120.01 L0 0 Z" copath="M0 0 L360.023 0 L360.023 120.01 L0 120.01 L0 0 Z" gXpos="520.027086614173" gYpos="60.0012598425197" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para ALIGN="1" LINESPMode="1" LINESP="28"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="28"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="28"/>
+                <ITEXT FONT="Nunito Bold" FONTSIZE="43" CH="Tidy up the Toys"/>
+                <trail ALIGN="1" LINESPMode="1" LINESP="28"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.00062992126" YPOS="1943.79023622047" OwnPage="2" ItemID="1388547155" PTYPE="2" WIDTH="260.018897637795" HEIGHT="260.016377952756" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.371455568053993" LOCALSCY="0.371455568053993" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="abc-blocks.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L260.019 0 L260.019 260.016 L0 260.016 L0 0 Z" copath="M0 0 L260.019 0 L260.019 260.016 L0 260.016 L0 0 Z" gXpos="140.00062992126" gYpos="180.011338582677" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="140.00062992126" YPOS="2203.80661417323" OwnPage="2" ItemID="1388571075" PTYPE="2" WIDTH="380.026456692913" HEIGHT="381.863307086614" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.316688713910761" LOCALSCY="0.316688713910761" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Tidy-Up-the-Toys-arena-layout_sm.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L380.026 0 L380.026 381.863 L0 381.863 L0 0 Z" copath="M0 0 L380.026 0 L380.026 381.863 L0 381.863 L0 0 Z" gXpos="140.00062992126" gYpos="440.027716535433" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="400.019527559055" YPOS="1943.79023622047" OwnPage="2" ItemID="1389552643" PTYPE="4" WIDTH="850.532283464567" HEIGHT="260.016377952756" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L850.532 0 L850.532 260.016 L0 260.016 L0 0 Z" copath="M0 0 L850.532 0 L850.532 260.016 L0 260.016 L0 0 Z" gXpos="400.019527559055" gYpos="180.011338582677" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="Premise:"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="You keep on tripping over toys that are strewn all over the floor. It’s time to get them organised!"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="Aim of the Challenge:"/>
+                <para/>
+                <para/>
+                <ITEXT FONTSIZE="15" CH="To organise the toys into one of two arrangements, using one of two methods."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="Control Method:"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="Remote control or Autonomous."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="Time Limit:"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="5 minutes."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="520.027086614173" YPOS="2203.80661417323" OwnPage="2" ItemID="1389573923" PTYPE="4" WIDTH="730.524724409449" HEIGHT="381.863307086614" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L730.525 0 L730.525 381.863 L0 381.863 L0 0 Z" copath="M0 0 L730.525 0 L730.525 381.863 L0 381.863 L0 0 Z" gXpos="520.027086614173" gYpos="440.027716535433" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="16" FEATURES="inherit underline" CH="Rules"/>
+                <para LINESP="20"/>
+                <ITEXT FONT="Nunito SemiBold" CH=" "/>
+                <para LINESP="20"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="You may place markers (such as QR codes) or coloured patches on or around the Target Box to aid navigation and placement of the blocks."/>
+                <para LINESP="20"/>
+                <para LINESP="20"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" FEATURES="inherit underline" CH="Ranking and Points"/>
+                <para LINESP="20"/>
+                <para LINESP="20"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH=" Robots will be grouped together in Remote Control and Autonomous categories and then ranked according to their fastest run."/>
+                <para LINESP="20"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="    "/>
+                <para LINESP="20"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="Points will be awarded to the top ranked robots in each group according to the Formula Scoring System."/>
+                <para LINESP="20"/>
+                <para LINESP="20"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" FEATURES="inherit underline" CH="Additional Points"/>
+                <para LINESP="20"/>
+                <para LINESP="20"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="There will be points awarded for each coloured block placed inside the target box on your fastest run. That way, if you fail to complete your run in five minutes, you will still receive some points for the completed elements. (These points may be different depending on method and arrangement)."/>
+                <para LINESP="20"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="    "/>
+                <para LINESP="20"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="There will be a bonus for successfully completing a stacked arrangement."/>
+                <para LINESP="20"/>
+                <para LINESP="20"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="16" CH="    "/>
+                <para LINESP="20"/>
+                <para LINESP="20"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="880.049763779528" YPOS="1823.78015748032" OwnPage="2" ItemID="1390385619" PTYPE="4" WIDTH="370.502047244094" HEIGHT="120.010078740157" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L370.502 0 L370.502 120.01 L0 120.01 L0 0 Z" copath="M0 0 L370.502 0 L370.502 120.01 L0 120.01 L0 0 Z" gXpos="880.049763779528" gYpos="60.0012598425197" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Nunito ExtraBold" FONTSIZE="15" CH="https://piwars.org/2021-vpw/challenges/tidy-up-the-toys/"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.00062992126" YPOS="2705.66960629921" OwnPage="3" ItemID="1389823987" PTYPE="2" WIDTH="380.026456692913" HEIGHT="120.010078740157" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0789539991711559" LOCALSCY="0.0789539991711559" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Piwarsbot-New-Logo-1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L380.026 0 L380.026 120.01 L0 120.01 L0 0 Z" copath="M0 0 L380.026 0 L380.026 120.01 L0 120.01 L0 0 Z" gXpos="140.00062992126" gYpos="60.0012598425197" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="520.027086614173" YPOS="2705.66960629921" OwnPage="3" ItemID="1389847395" PTYPE="4" WIDTH="360.022677165354" HEIGHT="120.010078740157" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360.023 0 L360.023 120.01 L0 120.01 L0 0 Z" copath="M0 0 L360.023 0 L360.023 120.01 L0 120.01 L0 0 Z" gXpos="520.027086614173" gYpos="60.0012598425197" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para ALIGN="1" LINESPMode="1" LINESP="28"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="28"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="28"/>
+                <ITEXT FONT="Nunito Bold" FONTSIZE="43" CH="Tidy up the Toys"/>
+                <trail ALIGN="1" LINESPMode="1" LINESP="28"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.00062992126" YPOS="2825.67968503937" OwnPage="3" ItemID="1390362643" PTYPE="2" WIDTH="260.018897637795" HEIGHT="260.016377952756" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.371455568053993" LOCALSCY="0.371455568053993" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="abc-blocks.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L260.019 0 L260.019 260.016 L0 260.016 L0 0 Z" copath="M0 0 L260.019 0 L260.019 260.016 L0 260.016 L0 0 Z" gXpos="140.00062992126" gYpos="180.011338582677" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="140.00062992126" YPOS="3085.69606299213" OwnPage="3" ItemID="1390456195" PTYPE="2" WIDTH="380.026456692913" HEIGHT="381.863307086614" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.316688713910761" LOCALSCY="0.316688713910761" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Tidy-Up-the-Toys-arena-layout_sm.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L380.026 0 L380.026 381.863 L0 381.863 L0 0 Z" copath="M0 0 L380.026 0 L380.026 381.863 L0 381.863 L0 0 Z" gXpos="140.00062992126" gYpos="440.027716535433" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="400.019527559055" YPOS="2825.67968503937" OwnPage="3" ItemID="1390397779" PTYPE="4" WIDTH="850.532283464567" HEIGHT="260.016377952756" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L850.532 0 L850.532 260.016 L0 260.016 L0 0 Z" copath="M0 0 L850.532 0 L850.532 260.016 L0 260.016 L0 0 Z" gXpos="400.019527559055" gYpos="180.011338582677" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="Premise:"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="You keep on tripping over toys that are strewn all over the floor. It’s time to get them organised!"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="Aim of the Challenge:"/>
+                <para/>
+                <para/>
+                <ITEXT FONTSIZE="15" CH="To organise the toys into one of two arrangements, using one of two methods."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="Control Method:"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="Remote control or Autonomous."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="Time Limit:"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" CH="5 minutes."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="520.027086614174" YPOS="3085.69606299213" OwnPage="3" ItemID="1390431939" PTYPE="4" WIDTH="730.524724409449" HEIGHT="381.863307086614" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L730.525 0 L730.525 381.863 L0 381.863 L0 0 Z" copath="M0 0 L730.525 0 L730.525 381.863 L0 381.863 L0 0 Z" gXpos="520.027086614174" gYpos="440.027716535431" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="16" FEATURES="inherit underline" CH="Penalties"/>
+                <para LINESP="20"/>
+                <para LINESP="20"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="16" CH="You will be deducted points each time your robot hits the arena side wall. (You are allowed to push the blocks against the wall without penalty)."/>
+                <para LINESP="20"/>
+                <para LINESP="20"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="15" FEATURES="inherit underline" CH="Notes:"/>
+                <para LINESP="20"/>
+                <para LINESP="20"/>
+                <para LINESP="20"/>
+                <para LINESP="20"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="880.049763779528" YPOS="2705.66960629921" OwnPage="3" ItemID="1391346675" PTYPE="4" WIDTH="370.502047244094" HEIGHT="120.010078740157" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L370.502 0 L370.502 120.01 L0 120.01 L0 0 Z" copath="M0 0 L370.502 0 L370.502 120.01 L0 120.01 L0 0 Z" gXpos="880.049763779528" gYpos="60.0012598425197" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Nunito ExtraBold" FONTSIZE="15" CH="https://piwars.org/2021-vpw/challenges/tidy-up-the-toys/"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>

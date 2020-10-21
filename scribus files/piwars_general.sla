@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.5">
+    <DOCUMENT ANZPAGES="4" PAGEWIDTH="1190.55118110236" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="1" PAGESIZE="A3" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="1" DFONT="DejaVu Sans Book" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_GB" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="1" SnapToElement="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502045814642449" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.0006299212598" dispY="10.0006299212598" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Nunito Regular" FONTFEATURES="-clig"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="DejaVu Sans Book" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_GB"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="1" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="0" PSLevel="0" PDLanguage="0" markLength="3.16696078984239e-321" markOffset="4.65332458891109e-310" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0012598425197" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Fonts Name="Nunito Bold"/>
+            <Fonts Name="Nunito Regular"/>
+            <Fonts Name="Nunito SemiBold"/>
+            <Subset Name="Nunito ExtraBold"/>
+            <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <NotesFrames/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="3" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="1190.55118110236" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal" MNAM="" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="1190.55118110236" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="blank_master" MNAM="" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="1190.55118110236" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="blank_master" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="901.890708661418" PAGEWIDTH="1190.55118110236" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="" MNAM="blank_master" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="1783.78015748032" PAGEWIDTH="1190.55118110236" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="2" NAM="" MNAM="blank_master" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="2665.66960629921" PAGEWIDTH="1190.55118110236" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="3" NAM="" MNAM="blank_master" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTEROBJECT XPOS="140.00062992126" YPOS="60.0012598425197" OwnPage="1" ItemID="914688776" PTYPE="2" WIDTH="380.026456692913" HEIGHT="120.010078740157" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0789539991711559" LOCALSCY="0.0789539991711559" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Piwarsbot-New-Logo-1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L380.026 0 L380.026 120.01 L0 120.01 L0 0 Z" copath="M0 0 L380.026 0 L380.026 120.01 L0 120.01 L0 0 Z" OnMasterPage="blank_master" gXpos="140.00062992126" gYpos="138161270.500483" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <MASTEROBJECT XPOS="520.027086614173" YPOS="60.0012598425197" OwnPage="1" ItemID="914295832" PTYPE="4" WIDTH="360.022677165354" HEIGHT="120.010078740157" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360.023 0 L360.023 120.01 L0 120.01 L0 0 Z" copath="M0 0 L360.023 0 L360.023 120.01 L0 120.01 L0 0 Z" OnMasterPage="blank_master" gXpos="520.027086614173" gYpos="138161270.500483" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </MASTEROBJECT>
+        <PAGEOBJECT XPOS="140.00062992126" YPOS="60.0012598425188" OwnPage="0" ItemID="914381736" PTYPE="2" WIDTH="380.026456692913" HEIGHT="120.010078740157" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0789539991711559" LOCALSCY="0.0789539991711559" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Piwarsbot-New-Logo-1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L380.026 0 L380.026 120.01 L0 120.01 L0 0 Z" copath="M0 0 L380.026 0 L380.026 120.01 L0 120.01 L0 0 Z" gXpos="140.00062992126" gYpos="-821.888188976378" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="520.027086614173" YPOS="60.0012598425188" OwnPage="0" ItemID="927255704" PTYPE="4" WIDTH="360.022677165354" HEIGHT="120.010078740157" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360.023 0 L360.023 120.01 L0 120.01 L0 0 Z" copath="M0 0 L360.023 0 L360.023 120.01 L0 120.01 L0 0 Z" gXpos="520.027086614173" gYpos="-821.888188976378" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para ALIGN="1" LINESPMode="1" LINESP="28"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="28"/>
+                <ITEXT FONT="Nunito Bold" FONTSIZE="43" CH="General Rules"/>
+                <trail ALIGN="1" LINESPMode="1" LINESP="28"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.00062992126" YPOS="180.011338582672" OwnPage="0" ItemID="914541448" PTYPE="4" WIDTH="1110.55118110236" HEIGHT="641.879685039376" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L1110.55 0 L1110.55 641.88 L0 641.88 L0 0 Z" copath="M0 0 L1110.55 0 L1110.55 641.88 L0 641.88 L0 0 Z" gXpos="140.00062992126" gYpos="-701.878110236221" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Nunito Bold" FONTSIZE="18" FEATURES="inherit underline" CH="Team Rules"/>
+                <para LINESP="25"/>
+                <para LINESP="25"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="18" CH="    Robots and teams will be allocated to one of the following categories:"/>
+                <para LINESP="25" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0" MinGlyphShrink="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="18" CH="        Young Teams – Novices."/>
+                <para LINESP="25" MinGlyphShrink="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="18" CH="        Young Teams – Experienced."/>
+                <para LINESP="25" MinGlyphShrink="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="18" CH="        Beginner adult/mixed teams."/>
+                <para LINESP="25" MinGlyphShrink="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="18" CH="        Intermediate adult/mixed teams."/>
+                <para LINESP="25" MinGlyphShrink="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="18" CH="        Advanced/Professional adult/mixed teams."/>
+                <para LINESP="25" MinGlyphShrink="1"/>
+                <para LINESP="25" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" Numeration="0" MinGlyphShrink="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="18" CH="    Teams will be asked at the time of application into which category they should be entered. The final decision on categorisation rests with Pi Wars in consultation with the robot team."/>
+                <para LINESP="25" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0" MinGlyphShrink="1"/>
+                <ITEXT FONTSIZE="18" Unicode="25"/>
+                <ITEXT FONTSIZE="18" Unicode="25"/>
+                <ITEXT FONTSIZE="18" Unicode="25"/>
+                <para LINESP="25" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="•" Numeration="0" MinGlyphShrink="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="18" CH="    Any team comprised solely of members under 18 years of age "/>
+                <ITEXT FONT="Nunito ExtraBold" FONTSIZE="18" CH="must"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="18" CH=" have a responsible adult allocated to the team (even if that person plays no active role in the team)."/>
+                <para LINESP="25" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0" MinGlyphShrink="1"/>
+                <para LINESP="25" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="•" Numeration="0" MinGlyphShrink="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="18" CH="    Each team must build and program a single robot that handles all the challenges. This robot can have attachments, and parts can be exchanged, but must remain fundamentally the ‘same’ robot with the same core chassis. "/>
+                <ITEXT FONT="Nunito ExtraBold" FONTSIZE="18" CH="Please ensure that your recorded runs at challenges feature the same robot, fundamentally the same between challenges."/>
+                <para LINESP="25" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0" MinGlyphShrink="1"/>
+                <para LINESP="25" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="•" Numeration="0" MinGlyphShrink="1"/>
+                <para LINESP="25"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="18" CH="    Robots will compete and be ranked against other robots in the same category."/>
+                <para LINESP="25" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="18" CH="    "/>
+                <para LINESP="25"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="18" CH="    There is no maximum size of team, however we have found that teams of more than 10 members can be difficult to co-ordinate."/>
+                <para LINESP="25" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
+                <para LINESP="20"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="880.049763779528" YPOS="60.0012598425188" OwnPage="0" ItemID="914588632" PTYPE="4" WIDTH="370.502047244094" HEIGHT="120.010078740157" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L370.502 0 L370.502 120.01 L0 120.01 L0 0 Z" copath="M0 0 L370.502 0 L370.502 120.01 L0 120.01 L0 0 Z" gXpos="880.049763779528" gYpos="-821.888188976378" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para ALIGN="1" LINESPMode="1" LINESP="28"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="28"/>
+                <ITEXT FONT="Nunito ExtraBold" FONTSIZE="15" CH="https://piwars.org/2021-vpw/general-rules/"/>
+                <trail ALIGN="0" LINESPMode="1" LINESP="28"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.00062992126" YPOS="941.890708661417" OwnPage="1" ItemID="959896040" PTYPE="2" WIDTH="380.026456692913" HEIGHT="120.010078740157" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0789539991711559" LOCALSCY="0.0789539991711559" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Piwarsbot-New-Logo-1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L380.026 0 L380.026 120.01 L0 120.01 L0 0 Z" copath="M0 0 L380.026 0 L380.026 120.01 L0 120.01 L0 0 Z" gXpos="140.00062992126" gYpos="-821.888188976378" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="520.027086614173" YPOS="941.890708661417" OwnPage="1" ItemID="959947896" PTYPE="4" WIDTH="360.022677165354" HEIGHT="120.010078740157" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360.023 0 L360.023 120.01 L0 120.01 L0 0 Z" copath="M0 0 L360.023 0 L360.023 120.01 L0 120.01 L0 0 Z" gXpos="520.027086614173" gYpos="-821.888188976378" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para ALIGN="1" LINESPMode="1" LINESP="28"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="28"/>
+                <ITEXT FONT="Nunito Bold" FONTSIZE="43" CH="General Rules"/>
+                <trail ALIGN="1" LINESPMode="1" LINESP="28"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.00062992126" YPOS="1061.90078740157" OwnPage="1" ItemID="959633624" PTYPE="4" WIDTH="1110.55118110236" HEIGHT="641.879685039376" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L1110.55 0 L1110.55 641.88 L0 641.88 L0 0 Z" copath="M0 0 L1110.55 0 L1110.55 641.88 L0 641.88 L0 0 Z" gXpos="140.00062992126" gYpos="-701.878110236221" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para LINESP="26"/>
+                <ITEXT FONT="Nunito Bold" FONTSIZE="18" FEATURES="inherit underline" CH="Robot Rules"/>
+                <para LINESP="26"/>
+                <para LINESP="26"/>
+                <ITEXT FONT="Nunito Bold" FONTSIZE="18" CH="Raspberry Pi at the Core"/>
+                <para LINESP="26"/>
+                <para LINESP="26"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="18" CH="    All robots must have an operational Raspberry Pi at their core which carries out the majority of the computing effort."/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" Numeration="1" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="18" CH="    You are allowed to enter "/>
+                <ITEXT FONT="Nunito ExtraBold" FONTSIZE="18" CH="one, single robot"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="18" CH=" to the competition. You are not permitted to “swap out” the entire robot at any time, although you are permitted to swap out parts of your robot to compete in different challenges, such as motors and wheels, for example."/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" Numeration="1" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="18" CH="    Other boards, such as an Arduino, micro:bit or other microcontroller may be used on the robot but the Raspberry Pi must be in overall control."/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" Numeration="1" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="18" CH="    Additional pieces of equipment e.g. a games controller, a laptop, mobile phone or tablet may be used to control the robot, but must not be physically attached when competing on the courses."/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" Numeration="1" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <ITEXT FONT="Nunito Bold" FONTSIZE="18" CH="Power"/>
+                <para LINESP="26"/>
+                <para LINESP="26"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="18" CH="    All robots must be powered by batteries (cables being very unwise on the courses!)."/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" Numeration="1" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="18" CH="    If LiPo batteries are used, any charging "/>
+                <ITEXT FONT="Nunito Bold" FONTSIZE="18" CH="must be done inside a fire-proof bag or box,"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="18" CH=" available from many places that stock the batteries, such as HobbyKing. This is to ensure you don’t have any accidents."/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" Numeration="1" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <para LINESP="26"/>
+                <ITEXT FONT="Nunito Bold" FONTSIZE="18" CH="Robot Types"/>
+                <para LINESP="26"/>
+                <para LINESP="26"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="18" CH="    No airborne robots are permitted, e.g. drones."/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" Numeration="1" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="18" CH="    Walking and self-balancing robots are permitted."/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" Numeration="1" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="18" CH="    Hovercraft-style robots are allowed provided that the main fan is enclosed safely."/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" Numeration="1" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="880.049763779528" YPOS="941.890708661417" OwnPage="1" ItemID="959842856" PTYPE="4" WIDTH="370.502047244094" HEIGHT="120.010078740157" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L370.502 0 L370.502 120.01 L0 120.01 L0 0 Z" copath="M0 0 L370.502 0 L370.502 120.01 L0 120.01 L0 0 Z" gXpos="880.049763779528" gYpos="-821.888188976378" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para ALIGN="1" LINESPMode="1" LINESP="28"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="28"/>
+                <ITEXT FONT="Nunito ExtraBold" FONTSIZE="15" CH="https://piwars.org/2021-vpw/general-rules/"/>
+                <trail ALIGN="0" LINESPMode="1" LINESP="28"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.00062992126" YPOS="1823.78015748032" OwnPage="2" ItemID="961248888" PTYPE="2" WIDTH="380.026456692913" HEIGHT="120.010078740157" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0789539991711559" LOCALSCY="0.0789539991711559" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Piwarsbot-New-Logo-1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L380.026 0 L380.026 120.01 L0 120.01 L0 0 Z" copath="M0 0 L380.026 0 L380.026 120.01 L0 120.01 L0 0 Z" gXpos="140.00062992126" gYpos="-821.888188976378" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="520.027086614173" YPOS="1823.78015748032" OwnPage="2" ItemID="894551144" PTYPE="4" WIDTH="360.022677165354" HEIGHT="120.010078740157" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360.023 0 L360.023 120.01 L0 120.01 L0 0 Z" copath="M0 0 L360.023 0 L360.023 120.01 L0 120.01 L0 0 Z" gXpos="520.027086614173" gYpos="-821.888188976378" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para ALIGN="1" LINESPMode="1" LINESP="28"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="28"/>
+                <ITEXT FONT="Nunito Bold" FONTSIZE="43" CH="General Rules"/>
+                <trail ALIGN="1" LINESPMode="1" LINESP="28"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.00062992126" YPOS="1943.79023622047" OwnPage="2" ItemID="947935432" PTYPE="4" WIDTH="720.047874015749" HEIGHT="641.879685039376" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L720.048 0 L720.048 641.88 L0 641.88 L0 0 Z" copath="M0 0 L720.048 0 L720.048 641.88 L0 641.88 L0 0 Z" gXpos="140.00062992126" gYpos="-701.878110236216" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para LINESP="26"/>
+                <ITEXT FONT="Nunito Bold" FONTSIZE="18" FEATURES="inherit underline" CH="Size"/>
+                <para LINESP="26"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="17" CH="1) The main chassis (including wheels and protrusions) of competing robots must fit within a "/>
+                <ITEXT FONT="Nunito Bold" FONTSIZE="17" CH="225mm x 300mm x 370mm footprint"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="17" CH=", as in the Purple area in the diagram above:"/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="17" CH="    The maximum width should be no more than 225mm."/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="17" CH="    The maximum length should be no more than 300mm."/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationHigher="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="17" CH="    The maximum height should be no more than 370mm."/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationHigher="1"/>
+                <para LINESP="29" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="17" CH="2) Attachments may be added to the robot for specific challenges. Any attachment can add additional length of 100mm and height of 80mm (as in the Green area in the diagram above) such that, when the attachment is at rest:"/>
+                <para LINESP="29" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <para LINESP="29" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="17" CH="    The maximum width should be no more than 225mm (i.e. no additional width)."/>
+                <para LINESP="29" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="17" CH="    The maximum length should be no more than 400mm."/>
+                <para LINESP="29" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="17" CH="    The maximum height should be no more than 450mm."/>
+                <para LINESP="29" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
+                <para LINESP="29" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="17" CH="3) An attachment may be animated in some way such that it extends beyond the boundaries above into the “extension area”. However, the attachment must stay within a box 325mm wide by 500mm length (this is shown as the Pink area above)."/>
+                <para LINESP="29"/>
+                <para LINESP="29" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="17" CH="4) When adding attachments, the basic chassis, Raspberry Pi and controller"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="18" CH=" arrangement "/>
+                <ITEXT FONT="Nunito Bold" FONTSIZE="18" CH="must remain the same."/>
+                <trail LINESP="29"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="880.049763779528" YPOS="1823.78015748032" OwnPage="2" ItemID="948127784" PTYPE="4" WIDTH="370.502047244094" HEIGHT="120.010078740157" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L370.502 0 L370.502 120.01 L0 120.01 L0 0 Z" copath="M0 0 L370.502 0 L370.502 120.01 L0 120.01 L0 0 Z" gXpos="880.049763779528" gYpos="-821.888188976378" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para ALIGN="1" LINESPMode="1" LINESP="28"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="28"/>
+                <ITEXT FONT="Nunito ExtraBold" FONTSIZE="15" CH="https://piwars.org/2021-vpw/general-rules/"/>
+                <trail ALIGN="0" LINESPMode="1" LINESP="28"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1220.07118110236" YPOS="1983.79275590551" OwnPage="2" ItemID="949763640" PTYPE="2" WIDTH="540.034015748032" HEIGHT="340.021417322835" FRTYPE="0" CLIPEDIT="0" ROT="90" PWIDTH="1" PLINEART="1" LOCALSCX="0.0767716002083619" LOCALSCY="0.0767716002083619" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Robot-diagram-for-limits-v2.jpg" PRFILE="Embedded sRGB IEC61966-2.1" EPROF="Embedded sRGB IEC61966-2.1" IRENDER="0" path="M0 0 L540.034 0 L540.034 340.021 L0 340.021 L0 0 Z" copath="M0 0 L540.034 0 L540.034 340.021 L0 340.021 L0 0 Z" gXpos="1220.07118110236" gYpos="1983.79275590551" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="140.00062992126" YPOS="2705.66960629921" OwnPage="3" ItemID="913551240" PTYPE="2" WIDTH="380.026456692913" HEIGHT="120.010078740157" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0789539991711559" LOCALSCY="0.0789539991711559" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Piwarsbot-New-Logo-1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L380.026 0 L380.026 120.01 L0 120.01 L0 0 Z" copath="M0 0 L380.026 0 L380.026 120.01 L0 120.01 L0 0 Z" gXpos="140.00062992126" gYpos="-821.888188976378" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="520.027086614173" YPOS="2705.66960629921" OwnPage="3" ItemID="956361432" PTYPE="4" WIDTH="360.022677165354" HEIGHT="120.010078740157" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360.023 0 L360.023 120.01 L0 120.01 L0 0 Z" copath="M0 0 L360.023 0 L360.023 120.01 L0 120.01 L0 0 Z" gXpos="520.027086614173" gYpos="-821.888188976378" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para ALIGN="1" LINESPMode="1" LINESP="28"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="28"/>
+                <ITEXT FONT="Nunito Bold" FONTSIZE="43" CH="General Rules"/>
+                <trail ALIGN="1" LINESPMode="1" LINESP="28"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.00062992126" YPOS="2825.67968503937" OwnPage="3" ItemID="955824824" PTYPE="4" WIDTH="1110.55118110236" HEIGHT="641.879685039376" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L1110.55 0 L1110.55 641.88 L0 641.88 L0 0 Z" copath="M0 0 L1110.55 0 L1110.55 641.88 L0 641.88 L0 0 Z" gXpos="140.00062992126" gYpos="-701.878110236221" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para LINESP="26"/>
+                <ITEXT FONT="Nunito Bold" FONTSIZE="18" FEATURES="inherit underline" CH="Robot Rules cont."/>
+                <para LINESP="26"/>
+                <para LINESP="26"/>
+                <ITEXT FONT="Nunito Bold" FONTSIZE="17" CH="Smoke! Flames!"/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationHigher="1"/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationHigher="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="17" CH="Regardless of the theme for the current competition, the robot must not intentionally emit smoke or flames. This is to comply with Rule Zero: "/>
+                <ITEXT FONT="Nunito ExtraBold" FONTSIZE="17" CH="Do not be on fire."/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationHigher="1"/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationHigher="1"/>
+                <ITEXT FONT="Nunito Bold" FONTSIZE="17" FEATURES="inherit underline" CH="Challenges"/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationHigher="1"/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationHigher="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="17" CH="    There will be a number of different challenges into which you may enter your robot, the results of which will contribute to an overall score."/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationHigher="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="17" CH="    "/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationHigher="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="17" CH="    Points structures will be published by Pi Wars to ensure that teams are aware of how many points each challenge is potentially worth. "/>
+                <para ALIGN="0" LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationHigher="1"/>
+                <para ALIGN="0" LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="•" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="17" CH="    Generally, the maximum amount of points is the same per challenge but different choices that you make may restrict your team’s personal      maximum."/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="17" CH="    "/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="•" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="17" CH="    None of the challenges are mandatory."/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="17" CH="    "/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="17" CH="    No points will be earned from challenges not entered."/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="•" Numeration="1" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="17" CH="    "/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="•" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <ITEXT FONT="Nunito SemiBold" FONTSIZE="17" CH="     There may be some additional physical requirements for specific challenges – please consult the individual challenge pages for more information."/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationHigher="1"/>
+                <para LINESP="26" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationHigher="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="880.049763779528" YPOS="2705.66960629921" OwnPage="3" ItemID="956671384" PTYPE="4" WIDTH="370.502047244094" HEIGHT="120.010078740157" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L370.502 0 L370.502 120.01 L0 120.01 L0 0 Z" copath="M0 0 L370.502 0 L370.502 120.01 L0 120.01 L0 0 Z" gXpos="880.049763779528" gYpos="-821.888188976378" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para ALIGN="1" LINESPMode="1" LINESP="28"/>
+                <para ALIGN="1" LINESPMode="1" LINESP="28"/>
+                <ITEXT FONT="Nunito ExtraBold" FONTSIZE="15" CH="https://piwars.org/2021-vpw/general-rules/"/>
+                <trail ALIGN="0" LINESPMode="1" LINESP="28"/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
